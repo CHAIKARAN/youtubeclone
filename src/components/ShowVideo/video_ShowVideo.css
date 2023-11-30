@@ -1,0 +1,8 @@
+.video_ShowVideo{
+    cursor: pointer;
+    margin: 0.4rem;
+    margin-bottom: 0;
+    width: calc(100% - 0.8rem);
+    height: 70%;
+    border: 1px solid rgba(128,128,128,0.532);
+}
